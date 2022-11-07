@@ -27,7 +27,12 @@ display:inline-block;
 vertical-align: top;
 margin: 3%;
 list-style: circle;
+ul{
+display: inline-block;
+:vertical-aling:top;
+margin: 3%;
+list-style: circle;
 }
 
-
-
+#imagem2{
+width: 50%;
